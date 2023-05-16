@@ -29,6 +29,6 @@
   "dependencies": {
     "jest": "^28.1.0",
     "jest-sinon": "^1.0.4",
-    "sinon": "^14.0.0"
+    "sinon": "^14.0.2"
   }
 }
