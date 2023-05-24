@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "jest": "^28.1.0",
-    "jest-sinon": "^1.0.4",
+    "jest-sinon": "^1.1.0",
     "sinon": "^14.0.0"
   }
 }
